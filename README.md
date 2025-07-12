@@ -22,5 +22,5 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/SlyLaFlame/html-chessflame.git
+   git clone https://github.com/SlyLaFlame/Take_Take.git
    cd html-chessflame
